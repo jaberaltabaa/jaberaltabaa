@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @jaberaltabaa
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning in VHB haigh School at Rennes 
+- 🌱 I’m currently learning in AFTEC haigh School at Rennes 
+- 📍 Work with Provectio 
